@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Muljilsegye"
-summary: "물질세계"
+title:  "물질세계 최수진"
+summary: "작가소개"
 date:   2023-01-02 00:00:00
-preview: /assets/header-9.jpeg
+preview: /assets/IMG_5367.jpg
 category: artists
 permalink: dark-nights-of-the-universe
 ---

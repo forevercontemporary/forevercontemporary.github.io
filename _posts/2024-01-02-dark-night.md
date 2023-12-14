@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dark Nights of the Universe"
-summary: "영혼의 어두운 밤: 물질세계"
+title:  "영혼의 어두운 밤"
+summary: "물질세계 개인전"
 date:   2023-01-02 00:00:00
 preview: /assets/IMG_5367.jpg
 category: exhibition

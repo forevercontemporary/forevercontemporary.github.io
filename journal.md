@@ -1,5 +1,5 @@
 ---
-layout: residency
+layout: journal
 title: "journal"
 permalink: /journal/
 ---

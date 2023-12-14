@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jaiwon Choi"
-summary: "최재원"
+title:  "Jaiwon Choi 최재원"
+summary: "Artist"
 date:   2023-01-02 00:00:00
-preview: /assets/exhibition/2023/friends-neighborhood/jaiwon-choi-lock.jpg 
+preview: /assets/exhibition/2023/friends-neighborhood/jaiwon-choi-lock.jpg
 category: artists
 permalink: artists/jaiwon-choi
 ---

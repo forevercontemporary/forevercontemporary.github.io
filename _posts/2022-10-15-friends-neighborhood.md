@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Friend's Neighborhood"
-summary: "친구네 동네"
+layout: page
+title:  "친구네 동네"
+summary: "기획전시"
 date:   2022-10-09 15:39:40
 preview: /assets/exhibition.jpg
 permalink: /exhibition/friends-neighborhood
@@ -12,10 +12,6 @@ category: exhibition
 ![Picture 1](/assets/exhibition.jpg)
 
 
-![Picture 1](/assets/dongnae1.jpg)
-
-
-![Picture 1](/assets/dongnae2.jpg)
 
  현대미술의 포용성과 지속가능성을 추구하는 현대미술 전시공간 포에버 forever✰의 첫 전시 《친구네 동네》를 소개합니다. 《친구네 동네》는 서울 종로구 행촌동에 새롭게 문을 연 전시 공간 포에버 forever✰와 공간 주변의 아티스트 커뮤니티를 연결하는 시도입니다. 전시 제목 ‘친구네 동네’는 공간 디렉터 최태윤이 바라본 ‘행촌동’에 대한 두 가지 시선을 담고 있습니다. 첫 번째 시선은 행촌동(경복궁역과 신촌역 사이)을 문화예술을 소비하는 사람들에게 익숙한 경유지로 바라보는 것이고, 두 번째 시선은 다양한 연령층이 살고 있는 오래된 주거지로 바라보는 것입니다.
 
@@ -39,3 +35,10 @@ category: exhibition
  
 
 서울시 종로구 사직로 11, 104호. 7~9월에는 공간 설계와 시공, 10~11월에는 공간 개관을 준비하며 여러 작가를 초대해 레지던시를 진행했다. 12월 첫 개관전시 《친구네 동네》에서는 앞으로 함께 작업하고, 포에버 forever✰를 통해 소개하고 싶은 작가들을 초대했다. 이전 작업에 협업자 혹은 기술자로 참여해서 도와줬던 작가님들, 이전부터 활동을 유심히 지켜봐 왔던 작가님들, 그리고 근래에 알게 되었지만, 호기심이 생긴 작가님들을 초대했다. 작가들도 처음 서로를 만나는 것이고, ‘포에버’라는 새 친구의 동네에 처음 와보는 것이기도 하다. 앞으로 포에버 forever✰가 만들고자 하는 지속가능하고 포용적인 동네의 시작이기도 하다. 
+
+
+
+![Picture 1](/assets/dongnae1.jpg)
+
+
+![Picture 1](/assets/dongnae2.jpg)
