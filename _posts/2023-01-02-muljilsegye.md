@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "물질세계 최수진"
+title:  "최수진"
 summary: "작가소개"
-date:   2023-01-02 00:00:00
-preview: /assets/IMG_5367.jpg
+date:   2023-12-02 00:00:00
+preview: /assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg
 category: artists
-permalink: dark-nights-of-the-universe
+permalink: soojin-choi
 ---
 
-![Picture 1](/assets/header-9.jpeg)
+ 
+ <img src="/assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg" alt="image" style="width:300px;height:auto;">
+
 Put down info here, either in bullets or paragraphs.
