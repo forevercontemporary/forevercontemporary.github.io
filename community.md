@@ -5,12 +5,10 @@ permalink: /community/
 ---
 
 
-# 배우기
+# Learning
+ 
 
-# 소장품 
-
-# 저널 
-
+# Journal
 
  
  <ul>
