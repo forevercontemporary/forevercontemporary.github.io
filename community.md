@@ -7,6 +7,7 @@ permalink: /community/
 
 # Learning
  
+ Educational programs
 
 # Journal
 
