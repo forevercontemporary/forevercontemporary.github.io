@@ -17,5 +17,4 @@ permalink: /about/
 - 강은홍: 프로젝트 매니저
 - 김범준: 공간 & 로고 디자인 
  
-forever space for contemporary art
- 
+Photo

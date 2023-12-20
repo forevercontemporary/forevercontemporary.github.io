@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Dec 2023 22:58:11 +0900</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 22:58:11 +0900</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 22:33:06 +0900</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 22:33:06 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -35,31 +35,8 @@
 &lt;p&gt;Put down info here, either in bullets or paragraphs.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/soojin-choi</link>
-        <guid isPermaLink="true">http://localhost:4000/soojin-choi</guid>
-        
-        
-        <category>artists</category>
-        
-      </item>
-    
-      <item>
-        <title>Jaiwon Choi 최재원</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2023/friends-neighborhood/jaiwon-choi-lock.jpg&quot; alt=&quot;Picture 1&quot; /&gt;
- 최재원은 디지털 이미지와 자연의 요소를 작업의 주된 재료로 사용하며 선형적이면서 동시에 비선형적인 일상의 시간을 화면 위에 추상적으로 담아낸다. 작가는 캔버스 화면에 레이어를 중첩시킴으로써 각기 다른 질감과 색, 테크닉이 저마다 갖고 있는 다른 호흡과 시간의 흐름을 보여준다. 과거 기억과 매체 속 시간이 교차 되어 쌓인 하나의 완성된 그림은 ‘시간 속 집’이자 ‘기록물’이 된다. 고정되고 안정된 시간을 탐구하는 회화 작업은 휘몰아치고 똑바로 서 있기 어려운 ‘현재’에 정박할 수 있는 공간을 만들어준다.&lt;/p&gt;
-
-&lt;Lock&gt; 시리즈는 자신을 둘러싼 환경이 변화하는 것에서 강한 슬픔을 느끼면서도 그 움직임을 통해 기쁨을 느끼는 심적 갈등을 반영한다. 작가는 자신이 가지고 있는 기록 수단으로 강렬하게 빛이 났다 퍼져나가는 순간을 화면 안에 고정한다. 순간을 손에 쥐고 싶은 열망이 빠르게 흘러가는 시간의 역동성을 그리드 화면 위에 새기게 했다. 내면의 정적인 소유욕과 외부의 역동성은 그림 속 각기 다른 레이어에서 서로를 지탱하며, 그림으로 표현된 시간에 대한 단상들을 더 빛나게 한다.
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&amp;lt;2 Different Light&amp;gt;는 작가가 심적으로 힘들었던 시기에 스스로 지어놓은 규정과 그것을 깨기 위한 노력의 일환에서 제작되었다. 두 개의 캔버스로 이뤄져 있는 이 그림의 상단부에는 체스판을 떠올리게 하는 격자와 인공위성이 자리하고, 인공위성에서는 빛이 내뿜어진다. 하단부에는 새벽녘 하늘을 떠올리게 하는 그라데이션과 함께 강한 빛이 내리쬐고 있다. 인공위성은 우주 아래 지상에서 움직이는 생명체의 모든 움직임을 감시한다. 하단부에 위치한 피감시자는 인공위성의 감시를 받으면서도 옥죄이는 빛을 벗어날 수 있는 다음 사건, 다음 날의 해, 또 다른 빛을 기다린다.
-&lt;/Lock&gt;
-</description>
-        <pubDate>Mon, 02 Jan 2023 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/artists/jaiwon-choi</link>
-        <guid isPermaLink="true">http://localhost:4000/artists/jaiwon-choi</guid>
+        <link>http://localhost:4000/korean/artists/soojin-choi</link>
+        <guid isPermaLink="true">http://localhost:4000/korean/artists/soojin-choi</guid>
         
         
         <category>artists</category>
@@ -77,6 +54,116 @@ Put down info here, either in bullets or paragraphs.&lt;/p&gt;
         
         
         <category>collection</category>
+        
+      </item>
+    
+      <item>
+        <title>최태윤</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/artists/taeyoon-choi/Taeyoon-Choi_profile_2018_photo-by-Minu-Han.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Artist, educator, organizer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/artists/taeyoon-choi/dwc-taeyoon-sonje.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/artists/taeyoon-choi</link>
+        <guid isPermaLink="true">http://localhost:4000/artists/taeyoon-choi</guid>
+        
+        
+        <category>artists</category>
+        
+      </item>
+    
+      <item>
+        <title>최재원</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/artists/jaiwon-choi/jaiwon-choi.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;최재원은 디지털 이미지와 자연의 요소를 작업의 주된 재료로 사용하며 선형적이면서 동시에 비선형적인 일상의 시간을 화면 위에 추상적으로 담아낸다. 작가는 캔버스 화면에 레이어를 중첩시킴으로써 각기 다른 질감과 색, 테크닉이 저마다 갖고 있는 다른 호흡과 시간의 흐름을 보여준다. 과거 기억과 매체 속 시간이 교차 되어 쌓인 하나의 완성된 그림은 ‘시간 속 집’이자 ‘기록물’이 된다. 고정되고 안정된 시간을 탐구하는 회화 작업은 휘몰아치고 똑바로 서 있기 어려운 ‘현재’에 정박할 수 있는 공간을 만들어준다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2023/friends-neighborhood/jaiwon-choi-lock.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;Lock&gt; 시리즈는 자신을 둘러싼 환경이 변화하는 것에서 강한 슬픔을 느끼면서도 그 움직임을 통해 기쁨을 느끼는 심적 갈등을 반영한다. 작가는 자신이 가지고 있는 기록 수단으로 강렬하게 빛이 났다 퍼져나가는 순간을 화면 안에 고정한다. 순간을 손에 쥐고 싶은 열망이 빠르게 흘러가는 시간의 역동성을 그리드 화면 위에 새기게 했다. 내면의 정적인 소유욕과 외부의 역동성은 그림 속 각기 다른 레이어에서 서로를 지탱하며, 그림으로 표현된 시간에 대한 단상들을 더 빛나게 한다.
+
+&lt;br /&gt;
+ 
+
+&lt;br /&gt;
+
+&amp;lt;2 Different Light&amp;gt;는 작가가 심적으로 힘들었던 시기에 스스로 지어놓은 규정과 그것을 깨기 위한 노력의 일환에서 제작되었다. 두 개의 캔버스로 이뤄져 있는 이 그림의 상단부에는 체스판을 떠올리게 하는 격자와 인공위성이 자리하고, 인공위성에서는 빛이 내뿜어진다. 하단부에는 새벽녘 하늘을 떠올리게 하는 그라데이션과 함께 강한 빛이 내리쬐고 있다. 인공위성은 우주 아래 지상에서 움직이는 생명체의 모든 움직임을 감시한다. 하단부에 위치한 피감시자는 인공위성의 감시를 받으면서도 옥죄이는 빛을 벗어날 수 있는 다음 사건, 다음 날의 해, 또 다른 빛을 기다린다.
+
+
+
+ 
+ 
+&lt;/Lock&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/artists/jaiwon-choi</link>
+        <guid isPermaLink="true">http://localhost:4000/artists/jaiwon-choi</guid>
+        
+        
+        <category>artists</category>
+        
+      </item>
+    
+      <item>
+        <title>김환</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/artists/taeyoon-choi/Taeyoon-Choi_profile_2018_photo-by-Minu-Han.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Artist, educator, organizer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/artists/taeyoon-choi/dwc-taeyoon-sonje.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/artists/Hwan Kim</link>
+        <guid isPermaLink="true">http://localhost:4000/artists/Hwan Kim</guid>
+        
+        
+        <category>artists</category>
+        
+      </item>
+    
+      <item>
+        <title>안예섬</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/artists/yeseom-ahn/IMG_0500.JPG&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Put down info here, either in bullets or paragraphs.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/artists/yeseom-ahn</link>
+        <guid isPermaLink="true">http://localhost:4000/artists/yeseom-ahn</guid>
+        
+        
+        <category>artists</category>
+        
+      </item>
+    
+      <item>
+        <title>점자 동시 병렬 그림</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/residency/2023/narannaran/IMG_2657.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;나란나란 레지던시 01 : 《점자 동시 병렬 그림》 재연하기 : 글로 보는 이미지
+&lt;br /&gt;
+11월 19일 포에버✰에서 여섯시간 동안 진행했던 레지던시 기록을 남깁니다.
+&lt;br /&gt;
+모든 전시장에는 눈으로 무언가를 보는 이뿐 아니라, 음성 혹은 점자 글을 통해서 작품을 보는 이도 있습니다. 두가지보기 방식은 서로 다른 경로와 감각을 통하기에 다른 특성을 갖고 있지만, 모두 다 한 공간에서 작품 주변을 맴돌고 있습니다. 이러한 내용과 감각을 시각적 관람 경험을 중심에 둔 전시장에서 떠올려봅니다.
+&lt;br /&gt;&lt;br /&gt;11월 1일부터 12일까지 모두예술극장에서 열렸던 《점자 동시 병렬 그림》에서는 그림과 점자로 전시를 구성했습니다. 누군가는 글을 읽고 이미지들을 머릿속으로 그렸고, 누군가는 그림을 읽어 이미지를 읽었습니다. 어떤 이는 손끝으로 전시장을 만졌고, 어떤 이는 접촉하지 않는 눈으로 읽었습니다. 특히 글과 이미지가 간의 시차가 생각보다 커, 서로가 전시장에 머무르는 시간이 달랐던 점이 기억에 남습니다. 글의 말머리부터 마침표까지, 전체를 읽어야 하나의 이미지가 완성되는 대체텍스트를 통한 보기는 고요하고 긴 시간의 보기를 만들었습니다.
+&lt;br /&gt;&lt;br /&gt;19일 레지던시에서는 눈으로 빠르게 볼 수 있는 이미지들은 제외하고, 대체텍스트만을 통해서 이미지를 볼 수 있는 형태로《점자 동시 병렬 그림》를 재연했습니다.
+&lt;br /&gt;&lt;br /&gt;이미지가 있던 자리에 대체텍스트를 두었습니다. 레지던시는 글을 통해 떠올릴 이미지들은 서로 다를 수 밖에 없어 다성적이고, 또 서로가 그 이미지를 확인할 수 없다는 점에서 완결된 이미지가 있었던 《점자 동시 병렬 그림》를 재연하지 않으면서, 동시에 《점자 동시 병렬 그림》에서 점자 글로 감상했던 어떤 이의 전시 경험을 그대로 재연했습니다. 이 재연은 지난 전시에서의 시각적인 정보들을 참조해야할 원본으로 상정하지 않았다는 점에서 의미를 가지길 바랍니다.
+&lt;br /&gt;&lt;br /&gt;11월, 다양한 형태의 읽기와 보기가 공명하고 있는 공간으로서의 전시의 형태를 시도해 보았다면, 그 안에서 서로의 읽기와 보기가 어떻게 관계를 구성할 수 있을지에 대한 고민을 이어 나가려고 합니&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/residency/2023/narannaran/IMG_2656.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/residency/2023/narannaran/IMG_1277.jpg&quot; alt=&quot;Picture 1&quot; /&gt;
+&lt;img src=&quot;/assets/residency/2023/narannaran/IMG_2658.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 19 Nov 2022 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/korean/residency/narannaran/braille</link>
+        <guid isPermaLink="true">http://localhost:4000/korean/residency/narannaran/braille</guid>
+        
+        
+        <category>residency</category>
         
       </item>
     
@@ -192,66 +279,6 @@ forever✰는 내 일상의 범위를 당분간 확장한 공간으로써 확실
         <link>http://localhost:4000/2022/10/08/newer-game/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/10/08/newer-game/</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>애착나무</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/fullsize.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Put down info here, either in bullets or paragraphs.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Oct 2022 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/journal/2022/10/07/new-game/</link>
-        <guid isPermaLink="true">http://localhost:4000/journal/2022/10/07/new-game/</guid>
-        
-        
-        <category>journal</category>
-        
-      </item>
-    
-      <item>
-        <title>애착나무</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/fullsize.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Put down info here, either in bullets or paragraphs.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Oct 2022 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/journal/2022/10/07/new-game-copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/journal/2022/10/07/new-game-copy/</guid>
-        
-        
-        <category>journal</category>
-        
-      </item>
-    
-      <item>
-        <title>애착나무</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/fullsize.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Put down info here, either in bullets or paragraphs.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Oct 2022 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/residency/2022/10/07/new-game-copy-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/residency/2022/10/07/new-game-copy-5/</guid>
-        
-        
-        <category>residency</category>
-        
-      </item>
-    
-      <item>
-        <title>애착나무</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/fullsize.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Put down info here, either in bullets or paragraphs.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Oct 2022 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/journal/2022/10/07/new-game-copy-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/journal/2022/10/07/new-game-copy-4/</guid>
-        
-        
-        <category>journal</category>
         
       </item>
     
