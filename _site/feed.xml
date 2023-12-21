@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Dec 2023 14:33:47 +0900</pubDate>
-    <lastBuildDate>Thu, 21 Dec 2023 14:33:47 +0900</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 14:48:02 +0900</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 14:48:02 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -142,6 +142,7 @@ Put down info here, either in bullets or paragraphs.&lt;/p&gt;
         <description>&lt;p&gt;&lt;img src=&quot;/assets/artists/yeseom-ahn/IMG_0500.JPG&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Put down info here, either in bullets or paragraphs.
+test
 test&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jan 2023 09:00:00 +0900</pubDate>
