@@ -12,3 +12,4 @@ permalink: artists/yeseom-ahn
 ![Picture 1](/assets/artists/yeseom-ahn/IMG_0500.JPG)
 
 Put down info here, either in bullets or paragraphs.
+test
