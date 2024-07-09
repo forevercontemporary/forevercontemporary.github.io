@@ -1,0 +1,31 @@
+I"
+<aside>
+  
+    <div class="row">
+        <div class="column column-4">
+            <div class="preview-panel">
+                <a href="/journal-anh">
+                    <img src="/assets/journal" />
+                </a>
+                <div class="post-title">아트바젤 홍콩 2024</div>
+        <div class="post-summary">Art Basel Hong Kong 2024</div>
+           </div>
+        </div>
+
+
+    
+        <div class="column column-4">
+            <div class="preview-panel">
+                <a href="/journal/2022/07/08/finding-space/">
+                    <img src="/assets/dasom1.jpg" />
+                </a>
+                <div class="post-title">Finding Space</div>
+        <div class="post-summary">공간 찾기</div>
+           </div>
+        </div>
+
+
+</div>
+
+</aside>
+:ET

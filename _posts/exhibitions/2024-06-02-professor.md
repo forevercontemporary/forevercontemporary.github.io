@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "프로페서"
 summary: "Professor"
 date:   2024-06-02 15:39:40
-preview: /assets/exhibition/2024/professor/ori035.jpg
-category: exhibition
-permalink: /exhibition/professor
+preview: /assets/exhibitions/2024/professor/ori035.jpg
+category: exhibitions
+permalink: /exhibitions/professor
 
 ---
 

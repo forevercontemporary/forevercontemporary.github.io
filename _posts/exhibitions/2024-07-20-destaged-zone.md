@@ -1,11 +1,11 @@
 ---
-layout: page
-title:  "비무대지대: 드러내거나 넘고 뒤집으며"
-summary: "Destaged Zone: To Reveal, Cross, and Flip"
+layout: post
+title:  "비무대지대"
+summary: "Destaged Zone"
 date:  2024-07-04 00:00:00
-preview: /assets/exhibition/2024/destaged-zone/destaged.jpeg
-category: exhibition
-permalink: exhibition/destaged-zone
+preview: /assets/exhibitions/2024/destaged-zone/destaged.jpeg
+category: exhibitions
+permalink: exhibitions/destaged-zone
 ---
 
 ![Picture 1](/assets/exhibition/2024/destaged-zone/IMG_6974.jpg)

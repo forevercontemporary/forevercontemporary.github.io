@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "소개"
+title: 
 permalink: /about/
 ---
+
+<h1> 포에버✰ 갤러리 </h1>
 현대미술의 지속가능성과 다양성, 접근성 실천을 추구하는 포에버 forever✰는 작가이자 교육자로 활동하는 최태윤이 2023년 서울 종로구 사직로 11, 104호에 새롭게 문을 연 현대미술 공간입니다. 서울의 많은 대안공간과 갤러리 중에 휠체어 사용자가 출입할 수 있는 공간이 드물다는 사실을 발견하고 그 대안으로 설립된 포에버 forever✰ 공간에도 작은 문턱이 존재하여 완벽한 배리어프리(Barrier-free) 공간은 아니지만, 이동식 경사로와 화장실 보조핸들 등 장애인 접근성을 위한 시설을 제공합니다. 또한 공간에 존재하는 물리적, 문화적 경계들을 적극적으로 인정하고 그 대안을 제시하는 배리어컨셔스(Barrier-conscious) 공간이 되도록 노력합니다.
 
 <br>
@@ -14,7 +16,28 @@ permalink: /about/
 <br>
 
 - 최태윤: 디렉터 
-- 강은홍: 프로젝트 매니저
-- 김범준: 공간 & 로고 디자인 
+- 전혜수: 어시스턴트 큐레이터 
+- 김범준: 디자이너
+
+문의: info@forevergallery.org 
  
-Photo
+ <br>
+
+ <h1> forever✰ gallery </h1>
+
+ Founded by artist and educator Taeyoon Choi in 2023, forever✰ gallery focuses on sustainability, diversity, and accessibility in contemporary art. Upon realizing there are not many wheelchair-accessible spaces among the vibrant scenes of alternative spaces and commercial galleries in Seoul, Choi along with disabled artists in his community, imagined an artist-run gallery that is accessible for disabled people. While forever✰ gallery is not a completely barrier-free space (there is a 2-inch-high gap between the street and the gallery), the space provides a ramp and restroom for disabled visitors and prides itself as a barrier-conscious space.
+
+ <br>
+
+forever✰ gallery’s programs offer a curatorial agenda with residencies, exhibitions, publications and education. Forever interdependent system for mutual support among artists, curators, collectors and community. Forever does not draw clear boundaries between emerging and established artists, fine art and experimental art, design and craft, performing arts and education, disabled and non-disabled people. Instead, we work towards an ecosystem that support artists and arts workers to thrive as an individuals and create critically engaged contemporary art.
+
+ <br>
+
+Therefore, we sell conventional object-based artworks(paintings, sculpture and craft) as well as immaterial artworks (conceptual, performance, digital, pedagogical, process-based works) through our shows and collections. We resist the binary distinction between the creator and collector, those who benefit from the capital and those who can decide who gets the benefits, and the world of differences that are subsequently created by these world views. The profits we earn through art work sales, educational programs, and space rentals make up the community ecosystem. We will invest the earning back to the space and our community, towards a sustainable business model and solidarity economy between artists and art workers. When our programs continue for a long time, it's natural that our form and objectives will change along. For now, we focus on now, here and us, for the cultural diversity and inclusivity in contemporary art to continue.
+
+<br>
+ - Taeyoon Choi, Director
+ - Hyesu Jeon, Assistant Curator
+ - Beomjun Kim, Designer
+
+ Contact: info@forevergallery.org

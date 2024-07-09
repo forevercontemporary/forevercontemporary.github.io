@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "exhibitions"
+title: ""
 permalink: /exhibitions/
 ---
 
 
  
 <aside>
-  {% for post in site.categories.exhibition %}
+  {% for post in site.categories.exhibitions %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-4">
             <div class="preview-panel">

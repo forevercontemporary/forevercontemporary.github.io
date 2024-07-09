@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2024 12:02:07 +0900</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2024 12:02:07 +0900</lastBuildDate>
+    <pubDate>Tue, 09 Jul 2024 13:48:30 +0900</pubDate>
+    <lastBuildDate>Tue, 09 Jul 2024 13:48:30 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>비무대지대: 드러내거나 넘고 뒤집으며</title>
+        <title>비무대지대</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/destaged-zone/IMG_6974.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;《비무대지대: 드러내거나 넘고 뒤집으며》&lt;/p&gt;
@@ -54,11 +54,11 @@
 
 </description>
         <pubDate>Thu, 04 Jul 2024 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/destaged-zone</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/destaged-zone</guid>
+        <link>http://localhost:4000/exhibitions/destaged-zone</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibitions/destaged-zone</guid>
         
         
-        <category>exhibition</category>
+        <category>exhibitions</category>
         
       </item>
     
@@ -98,34 +98,36 @@ Seoul, Jongro Gu Sajik ro 11/104
 &lt;p&gt;For social media please link&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Jun 2024 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/professor</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/professor</guid>
+        <link>http://localhost:4000/exhibitions/professor</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibitions/professor</guid>
         
         
-        <category>exhibition</category>
+        <category>exhibitions</category>
         
       </item>
     
       <item>
         <title>화면장식</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/screenterior/5.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibitions/2024/screenterior/5.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;윤충근&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 07 May 2024 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/2024/05/07/screenterior/</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/2024/05/07/screenterior/</guid>
+        <link>http://localhost:4000/exhibitions/screenterior</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibitions/screenterior</guid>
         
         
-        <category>exhibition</category>
+        <category>exhibitions</category>
         
       </item>
     
       <item>
         <title>눈에서 돌</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/from-snow-to-stone/DSC4114-Enhanced-NR.jpg&quot; alt=&quot;Picture 1&quot; /&gt;
-&lt;img src=&quot;/assets/exhibition/2024/from-snow-to-stone/DSC4121-Enhanced-NR.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+        <description>&lt;h3 id=&quot;from-snow-to-stone-solo-exhibition-by-yu-jeong-eom&quot;&gt;From Snow to Stone, Solo Exhibition by Yu Jeong Eom&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibitions/2024/from-snow-to-stone/DSC4114-Enhanced-NR.jpg&quot; alt=&quot;Picture 1&quot; /&gt;
+&lt;img src=&quot;/assets/exhibitions/2024/from-snow-to-stone/DSC4121-Enhanced-NR.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;엄유정의 전시 ‘눈에서 돌’ 은 2021년부터 2023년까지의 작가의 작업 중 눈이 쌓인 모습, 돌, 암석 등의 형상을 그린  20점의 작품을 소개하는 전시이다. 전시의 제목은 2023년에 작가가 제작한 동명의 책에서 유래했으며 이번 전시에는 책에 수록된 그림 들 중 원화로 전시된 적이 없는 그림을 모아 소개할 예정이다.&lt;/p&gt;
 
@@ -149,86 +151,11 @@ Seoul, Jongro Gu Sajik ro 11/104
 &lt;/pre&gt;
 </description>
         <pubDate>Tue, 07 May 2024 00:39:40 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/2024/05/07/screenterior-copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/2024/05/07/screenterior-copy/</guid>
+        <link>http://localhost:4000/exhibitions/2024/05/07/from-snow-to-stone/</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibitions/2024/05/07/from-snow-to-stone/</guid>
         
         
-        <category>exhibition</category>
-        
-      </item>
-    
-      <item>
-        <title>팔레스타인은 우리의 미래시제다</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/palestine-is-our-future-tense/party1-crop.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;팔레스타인 문화 연대(이하 ‘팔문연’)는 독립문에 위치한 갤러리 forever✰에서 전시 《PALESTINE LIVES: 팔레스타인은 우리의 미래시제다》를 개최합니다. 오는 6월 15일부터 6월 29일까지 진행되는 이번 전시에서는 모하마드 알 하와지리부터, 모하마드 아부살, 마람 알리, 바얀 아부 날라, 히바 자굿, 메이사 자굿까지 총 여섯 명의 팔레스타인 작가를 소개합니다. 전시되는 작업 중 다수는 Art Not Genocide Alliance(학살 금지 예술 연합)이 이스라엘의 2024 베니스 비엔날레 참여를 규탄하며 기획한 길거리 전시이자 정치적 시위인 《Palestinian Art in the Streets》에 전시된 바 있습니다. 그들의 부름에 응답하며, 팔문연 역시 갤러리 forever✰에서 열리는 이번 전시로서 예술 행동에 가담합니다. 프린트로 출력되어 갤러리 창문에 도배될 다양한 사진과 회화 작품은 현재 이스라엘이 자행 중인 팔레스타인 집단학살의 실태에서부터 가자지구의 일상적 삶까지, 팔레스타인의 모습을 다양한 시각에서 포착하고 있습니다. 함께, 우리는 이 집단학살의 증인이 되어, 팔레스타인의 투쟁과 저항을 주시하고, 각자 자신의 자리에서 팔레스타인의 완전한 해방을 위해 행동하고자 합니다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/palestine-is-our-future-tense/palestine-main.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/palestine-is-our-future-tense/party3.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/palestine-is-our-future-tense/party4.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/palestine-is-our-future-tense</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/palestine-is-our-future-tense</guid>
-        
-        
-        <category>exhibition</category>
-        
-      </item>
-    
-      <item>
-        <title>영혼의 어두운 밤</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/dark-night-of-the-soul-poster-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;최수진은 세상에 있어왔고, 있을법한 사물의 도상을 재현한다. 질료로서의 광물은 공간에 구축되거나 평면에 발리며 사물 또는 작품으로 기능한다. 물질의 형태나 그가 처한 상황에 따라 달라지는 위상의 간극에 흥미를 가지고 있다. 물질세계라는 이름의 스튜디오를 운영중이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg&quot; alt=&quot;image&quot; style=&quot;width:300px;height:auto;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/dark-nights-of-the-universe</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/dark-nights-of-the-universe</guid>
-        
-        
-        <category>exhibition</category>
-        
-      </item>
-    
-      <item>
-        <title>영혼의 어두운 밤</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/dark-night-of-the-soul-poster-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;최수진은 세상에 있어왔고, 있을법한 사물의 도상을 재현한다. 질료로서의 광물은 공간에 구축되거나 평면에 발리며 사물 또는 작품으로 기능한다. 물질의 형태나 그가 처한 상황에 따라 달라지는 위상의 간극에 흥미를 가지고 있다. 물질세계라는 이름의 스튜디오를 운영중이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg&quot; alt=&quot;image&quot; style=&quot;width:300px;height:auto;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/dark-nights-of-the-universe</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/dark-nights-of-the-universe</guid>
-        
-        
-        <category>exhibition</category>
-        
-      </item>
-    
-      <item>
-        <title>영혼의 어두운 밤</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/dark-night-of-the-soul-poster-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;최수진은 세상에 있어왔고, 있을법한 사물의 도상을 재현한다. 질료로서의 광물은 공간에 구축되거나 평면에 발리며 사물 또는 작품으로 기능한다. 물질의 형태나 그가 처한 상황에 따라 달라지는 위상의 간극에 흥미를 가지고 있다. 물질세계라는 이름의 스튜디오를 운영중이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg&quot; alt=&quot;image&quot; style=&quot;width:300px;height:auto;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/exhibition/dark-nights-of-the-universe</link>
-        <guid isPermaLink="true">http://localhost:4000/exhibition/dark-nights-of-the-universe</guid>
-        
-        
-        <category>exhibition</category>
+        <category>exhibitions</category>
         
       </item>
     
@@ -244,6 +171,78 @@ Seoul, Jongro Gu Sajik ro 11/104
         
         
         <category>artists</category>
+        
+      </item>
+    
+      <item>
+        <title>팔레스타인은 우리의 미래시제다</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibitios/2024/palestine-is-our-future-tense/party1-crop.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;팔레스타인 문화 연대(이하 ‘팔문연’)는 독립문에 위치한 갤러리 forever✰에서 전시 《PALESTINE LIVES: 팔레스타인은 우리의 미래시제다》를 개최합니다. 오는 6월 15일부터 6월 29일까지 진행되는 이번 전시에서는 모하마드 알 하와지리부터, 모하마드 아부살, 마람 알리, 바얀 아부 날라, 히바 자굿, 메이사 자굿까지 총 여섯 명의 팔레스타인 작가를 소개합니다. 전시되는 작업 중 다수는 Art Not Genocide Alliance(학살 금지 예술 연합)이 이스라엘의 2024 베니스 비엔날레 참여를 규탄하며 기획한 길거리 전시이자 정치적 시위인 《Palestinian Art in the Streets》에 전시된 바 있습니다. 그들의 부름에 응답하며, 팔문연 역시 갤러리 forever✰에서 열리는 이번 전시로서 예술 행동에 가담합니다. 프린트로 출력되어 갤러리 창문에 도배될 다양한 사진과 회화 작품은 현재 이스라엘이 자행 중인 팔레스타인 집단학살의 실태에서부터 가자지구의 일상적 삶까지, 팔레스타인의 모습을 다양한 시각에서 포착하고 있습니다. 함께, 우리는 이 집단학살의 증인이 되어, 팔레스타인의 투쟁과 저항을 주시하고, 각자 자신의 자리에서 팔레스타인의 완전한 해방을 위해 행동하고자 합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibitions/2024/palestine-is-our-future-tense/palestine-main.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibitions/2024/palestine-is-our-future-tense/party3.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibitions/2024/palestine-is-our-future-tense/party4.jpeg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/exhibitionss/palestine-is-our-future-tense</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibitionss/palestine-is-our-future-tense</guid>
+        
+        
+        <category>exhibitions</category>
+        
+      </item>
+    
+      <item>
+        <title>보이지 않는 아카이브</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibitions/2024/invisible-archive/DSC02302.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Invisible Archive&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/exhibitions/invisible-archive</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibitions/invisible-archive</guid>
+        
+        
+        <category>exhibitions</category>
+        
+      </item>
+    
+      <item>
+        <title>영혼의 어두운 밤</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/dark-night-of-the-soul-poster-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;최수진은 세상에 있어왔고, 있을법한 사물의 도상을 재현한다. 질료로서의 광물은 공간에 구축되거나 평면에 발리며 사물 또는 작품으로 기능한다. 물질의 형태나 그가 처한 상황에 따라 달라지는 위상의 간극에 흥미를 가지고 있다. 물질세계라는 이름의 스튜디오를 운영중이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg&quot; alt=&quot;image&quot; style=&quot;width:300px;height:auto;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/exhibition/dark-nights-of-the-universe</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibition/dark-nights-of-the-universe</guid>
+        
+        
+        <category>exhibition</category>
+        
+      </item>
+    
+      <item>
+        <title>영혼의 어두운 밤</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/dark-night-of-the-soul-poster-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;최수진은 세상에 있어왔고, 있을법한 사물의 도상을 재현한다. 질료로서의 광물은 공간에 구축되거나 평면에 발리며 사물 또는 작품으로 기능한다. 물질의 형태나 그가 처한 상황에 따라 달라지는 위상의 간극에 흥미를 가지고 있다. 물질세계라는 이름의 스튜디오를 운영중이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exhibition/2024/dark-nights-of-the-universe/soojin-choi-profile.jpg&quot; alt=&quot;image&quot; style=&quot;width:300px;height:auto;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/exhibition/dark-nights-of-the-universe</link>
+        <guid isPermaLink="true">http://localhost:4000/exhibition/dark-nights-of-the-universe</guid>
+        
+        
+        <category>exhibition</category>
         
       </item>
     
